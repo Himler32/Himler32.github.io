@@ -96,7 +96,7 @@ body, h1, h2, h3, h4, p{
 .box{
 	width: 250px;
 	height: 250px;
-	background-image: url(../img/icon2.jpg);
+	background-image: url(icon2.jpg);
 	background-repeat: no-repeat;
 	float: left;
 	margin-left: 40px;
